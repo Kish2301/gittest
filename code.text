@@ -1,0 +1,19 @@
+Hello
+
+Welcome to Git
+
+Git is a distributed version control system designed to track changes in source code during software development. It allows multiple developers to collaborate on projects efficiently by providing mechanisms for managing changes, merging code, and reverting to previous versions.
+
+To use Git, you typically start by initializing a repository in your project directory using the command git init. Then, you add files to the staging area using git add and commit changes to the repository using git commit. You can also create branches (git branch), merge branches (git merge), and collaborate with others by pushing and pulling changes from remote repositories (git push and git pull).
+
+Editing code.txt with vi:
+To create or edit the code.txt file using the vi editor, follow these steps:
+
+Open your terminal.
+Type vi code.txt and press Enter. This will open the vi editor with a new file named code.txt if it doesn't already exist.
+Press i to enter insert mode. You can now start typing your code or content into the file.
+Once you've finished editing, press the Esc key to exit insert mode and return to command mode.
+To save your changes and exit vi, type :wq (which stands for write and quit) and press Enter. If you don't want to save your changes, you can type :q! and press Enter to quit without saving.
+That's it! You've now created or edited the code.txt file using the vi editor. You can use Git to track changes to this file by initializing a Git repositoryin the directory containing code.txt and using Git commands to manage its version history.
+
+
